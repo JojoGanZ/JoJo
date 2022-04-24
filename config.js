@@ -18,10 +18,10 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6288293524506','6288293524506','6288293524506']
-global.premium = ['6288293524506']
-global.packname = 'NaoTomoriBot-Mdོ'
-global.author = 'F A J A R'
+global.owner = ['6285924761802','6285924761802','6287890620694']
+global.premium = ['62859224761802']
+global.packname = 'TomoriBot-Mdོ'
+global.author = 'ZyyXd'
 global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
